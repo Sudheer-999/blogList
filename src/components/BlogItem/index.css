@@ -1,0 +1,24 @@
+.header-container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.list-item {
+  width: 100%;
+}
+
+.title {
+  font-size: 24px;
+  color: #12022f;
+}
+
+.published-date {
+  color: #9aa5b1;
+  font-size: 20px;
+  font-weight: 500;
+}
+
+.description {
+  font-size: 20px;
+  color: #9aa5b1;
+}
